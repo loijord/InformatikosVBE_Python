@@ -28,9 +28,9 @@ Mokytojui galima pasidaryti statistinę analizę, kokie algoritmai ir kaip dažn
 
 Toje pačioje repozitorijoje po truputį atsiranda ir sprendimai (Mano bei dėstytojo Eimučio K.). Savo sprendimuose funkcijų aprašuose naudoju dokumentacines eilutes, kurios yra geras funkcijų komentavimo pavyzdys[2]. Taip pat, norėdamas automatizuoti egzamino uždavinių sprendimo skaidymą, rašau doktestus, bet tai nėra būtina daryti moksleiviui.
 
-Pastabos:
-[1] Tenka atsisakyti C++ kalboje įprasto struktūruotų duomenų tipo, nes tokio tipo ekvivalentas Python kalboje reikalauja gebėti aprašinėti atributus ir metodus klasių viduje.
-[2] Naudoti `docstrings` vietoj komentarų ateina iš mano programavimo patirties, tačiau tai yra tik mano siūlymas.
+Pastabos:  
+[1] Tenka atsisakyti C++ kalboje įprasto struktūruotų duomenų tipo, nes tokio tipo ekvivalentas Python kalboje reikalauja gebėti aprašinėti atributus ir metodus klasių viduje.  
+[2] Naudoti `docstrings` vietoj komentarų ateina iš mano programavimo patirties, tačiau tai yra tik mano siūlymas.  
 
 ## Kaip naudotis šia repozitorija?
 
