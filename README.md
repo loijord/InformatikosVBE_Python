@@ -6,7 +6,7 @@ Bandant modeliuoti egzaminų uždavinių sprendimus su Python, aiškėja, koks g
 
 ### Kokia galėtų būti kodo struktūra, bendra visiems sprendimams? 
 
-* Pagalvoti, kokia duomenų tipas (tuple, list, dict ir pan.) yra tinkamiausia talpinti nuskaitytiems duomenims[1]. Parašyti duomenų nuskaitymui skirtą metodą, pavadintą `read`. Pagrindinė šio metodo dalis galėtų būti [Context Manager](https://book.pythontips.com/en/latest/context_managers.html) sakinys, užrašomas dažniausiai taip: 
+* Pagalvoti, koks duomenų tipas (`tuple`, `list`, `dict` ir pan.) yra tinkamiausias talpinti nuskaitytiems duomenims[1]. Parašyti duomenų nuskaitymui skirtą metodą, pavadintą `read`. Pagrindinė šio metodo dalis galėtų būti [Context Manager](https://book.pythontips.com/en/latest/context_managers.html) sakinys, užrašomas dažniausiai taip: 
 
 ```
 with open(file, 'r') as f: 
