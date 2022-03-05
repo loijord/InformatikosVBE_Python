@@ -1,4 +1,4 @@
-# Informatikos VBE užduočių sprendimas naudojant Python
+# Informatikos VBE užduočių sprendimas su Python
 
 ## Apie
 
