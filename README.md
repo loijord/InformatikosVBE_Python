@@ -2,7 +2,7 @@
 
 ## Apie
 
-Bandant modeliuoti egzaminų uždavinių sprendimus su Python, aiškėja, koks galėtų būti kodo dizainas. Norėdamas gerai išlaikyti egzaminą, abiturientas turėtų ne tik gebėti laikytis tvarkingo kodo rašymo principų, bet ir mokėti remtis kitų parašytu kodu, jei tik jis atitinka šiuos principus. Taip pat eidamas į egzaminą turėti bendrą vaizdą, kokius maždaug algoritmus gali tekti rašyti (mano paties pilnas vaizdas dar nesusidaręs), mokėti išskaidyti algoritmus į aprašomus metodus ir žinoti, kokia kodo struktūra bus naudojama. 
+Bandant projektuoti egzaminų uždavinių sprendimus su Python, aiškėja, koks galėtų būti kodo dizainas. Norėdamas gerai išlaikyti egzaminą, abiturientas turėtų ne tik gebėti laikytis tvarkingo kodo rašymo principų, bet ir mokėti remtis kitų parašytu kodu, jei tik jis atitinka šiuos principus. Taip pat eidamas į egzaminą turėti bendrą vaizdą, kokius maždaug algoritmus gali tekti rašyti (mano paties pilnas vaizdas dar nesusidaręs), mokėti išskaidyti algoritmus į aprašomus metodus ir žinoti, kokia kodo struktūra bus naudojama. 
 
 ### Kokia galėtų būti kodo struktūra, bendra visiems sprendimams? 
 
